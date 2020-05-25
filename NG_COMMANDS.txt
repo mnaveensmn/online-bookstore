@@ -1,0 +1,16 @@
+################## Command Promt ###################
+npm install -g @angular/cli ==>For installing the angular CLI.
+
+node --version ==> It shows the Node.js version.
+
+ng new angular-bookstore ==> Creates a new angular project.
+
+################## Visual Code #############################
+
+ng serve ==> For starting the application.
+
+ng g class common/book --skipTests ==>It creats a new class under the common folder and its skips the test file.
+
+ng g c components/book-list --skipTests ==> Creates a new component which include html, ts and css files.
+
+ng g s services/book --skipTests ==> Cteates a new service class here "services" represent the folder.
