@@ -14,3 +14,13 @@ ng g class common/book --skipTests ==>It creats a new class under the common fol
 ng g c components/book-list --skipTests ==> Creates a new component which include html, ts and css files.
 
 ng g s services/book --skipTests ==> Cteates a new service class here "services" represent the folder.
+
+npm install bootstrap ==> Install the bootstrap library
+
+npm install jquery ==> Install jquery library
+
+cls ==> Clear the console
+
+npm install @fortawesome/fontawesome-free ==> Install the font awsome library.
+
+ctrl + C => Terminate the changes
