@@ -31,9 +31,7 @@ public class RepositoryConfig implements RepositoryRestConfigurer {
 		config.getCorsRegistry()
 			.addMapping("/**")
 			.allowedOrigins("http://localhost:4200"); // No need to specify the CrossOrgin for every repository we create
-		
-		
-		
+
 	}
 	
 }
